@@ -1,4 +1,4 @@
-# CostFunctionUnrolling
+# Cost Function Unrolling
 
 Official project page of the paper "Cost Function Unrolling in Unsupervised Optical Flow".
 
