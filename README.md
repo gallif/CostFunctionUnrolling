@@ -12,7 +12,7 @@ Published in _IEEE Transactions on Pattern Analysis and Machine Intelligence (TP
 
 This repository provides the official PyTorch implementation of our method for improving **unsupervised optical flow estimation** by unrolling the optimization of the cost function. Our approach introduces stronger supervision signals during training and significantly enhances final flow predictions, especially in challenging regions.
 
-> **Note:** This work builds on the excellent repository [ARFlow](https://github.com/lliuz/ARFlow).
+> **Note:** This repository builds on the excellent repository [ARFlow](https://github.com/lliuz/ARFlow).
 
 ---
 
