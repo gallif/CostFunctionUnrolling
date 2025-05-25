@@ -34,7 +34,7 @@ Follow the data preparation instructions provided in the [ARFlow repository](htt
 ## Usage
 
 ### 1. Evaluating SMURF Models
-KIITI
+KITI
 ```bash
 python train.py -c=configs/smurf/loc/loc_raft_kitti15_unrolled.json \
                 -m=checkpoints/smurf/KITTI_Flow_model_best.pth.tar -e
